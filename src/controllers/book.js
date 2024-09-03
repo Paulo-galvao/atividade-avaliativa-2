@@ -63,4 +63,4 @@ function destroy(id) {
     }
 }
 
-module.exports = {store, showAll, showById, update, destroy};
+module.exports = {store, showAll, showById, update, destroy, db};

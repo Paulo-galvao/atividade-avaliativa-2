@@ -1,6 +1,6 @@
 function model(body, id) {
     if(
-        body.nome != undefined && 
+        body.livro != undefined && 
         body.nome != "" &&
         body.matricula != undefined &&
         body.matricula != "" &&
